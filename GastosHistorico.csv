@@ -1,0 +1,951 @@
+Fecha;Concepto;Importe;Categoria;ID_Mes;Mes
+27/12/2020;Traspaso a cuenta;207;Autonomos/LEX Valles;1;ene-21
+28/12/2020;Vodafone;31.37;Telefonia;1;ene-21
+30/12/2020;Consum mollet del valles;79.05;Supermercado;1;ene-21
+30/12/2020;Bra cafe;2.21;Panaderia y Cafeteria;1;ene-21
+30/12/2020;Panaderia jaime i;2.76;Panaderia y Cafeteria;1;ene-21
+30/12/2020;Rosa de monserrat;24.15;Ropa y Complementos;1;ene-21
+30/12/2020;Disposicion de efectivo en cajero servired;103.5;Retirada dinero;1;ene-21
+30/12/2020;Moniberic;42.75;Carniceria y Charcuteria;1;ene-21
+30/12/2020;Tentazioni;27.59;Ropa y Complementos;1;ene-21
+31/12/2020;Pescados lopez zuãiga;19.95;Pescaderia;1;ene-21
+31/12/2020;Peixos mollet;27.15;Pescaderia;1;ene-21
+31/12/2020;Adeudo orange-france telecom;17.1;Telefonia;1;ene-21
+04/01/2021;Adeudo real fed espanola de golf;67.62;Suscripcion anual;1;ene-21
+04/01/2021;Adeudo santa lucia s.a.;28.12;Seguro Vida/Salud;1;ene-21
+04/01/2021;Adeudo josep fortuny soler;39.33;Gastos Comunidad Burgos;1;ene-21
+04/01/2021;Adeudo josep fortuny soler;25.53;Gastos Comunidad Burgos;1;ene-21
+04/01/2021;Adeudo josep fortuny soler;66.93;Gastos Comunidad;1;ene-21
+05/01/2021;Consum mollet del valles;54.99;Supermercado;1;ene-21
+05/01/2021;Fruita i verdura rblanova;12.54;Fruteria y Verduleria;1;ene-21
+05/01/2021;Farmacia rambla nova 25;10.54;Farmacia;1;ene-21
+05/01/2021;Jose rodriguez marquina;5.86;Otros;1;ene-21
+05/01/2021;Peixos mollet;7.4;Pescaderia;1;ene-21
+05/01/2021;Adeudo societat de socors mutus de mollet;24.18;Seguro Vida/Salud;1;ene-21
+05/01/2021;Adeudo societat de socors mutus de mollet;24.18;Seguro Vida/Salud;1;ene-21
+05/01/2021;Adeudo mensual de tarjeta;1.93;Teletac;1;ene-21
+05/01/2021;Cigna life insurance company of europe;7.69;Seguro Vida/Salud;1;ene-21
+08/01/2021;Consum mollet del valles;90.63;Supermercado;1;ene-21
+08/01/2021;Disposicion de efectivo en cajero servired;138;Retirada dinero;1;ene-21
+08/01/2021;Recibo de prestamo;73.42;Parking;1;ene-21
+09/01/2021;Adeudo de bbva seguros;10.38;Seguro Vida/Salud;1;ene-21
+11/01/2021;Cargo por cobro de servicios;9.66;Mantenimiento Cuenta;1;ene-21
+12/01/2021;Bra cafe;2.38;Panaderia y Cafeteria;1;ene-21
+12/01/2021;Moniberic;18.01;Carniceria y Charcuteria;1;ene-21
+12/01/2021;Foz;33.12;Ropa y Complementos;1;ene-21
+12/01/2021;Farmacia rambla nova 25;25.79;Farmacia;1;ene-21
+12/01/2021;Traspaso a cuenta;103.5;Autonomos/LEX Valles;1;ene-21
+13/01/2021;Consum mollet del valles;67.93;Supermercado;1;ene-21
+13/01/2021;L'art del cosir;9.66;Ropa y Complementos;1;ene-21
+13/01/2021;Carnes caãizar;2;Carniceria y Charcuteria;1;ene-21
+13/01/2021;Peixos mollet;27.62;Pescaderia;1;ene-21
+13/01/2021;Zapateria pazos;9.66;Ropa y Complementos;1;ene-21
+13/01/2021;Centre dietetic teresa po;6.9;Dietetica;1;ene-21
+13/01/2021;Multiopticas mollet;20.01;Otros;1;ene-21
+13/01/2021;Bra cafe;2.83;Panaderia y Cafeteria;1;ene-21
+13/01/2021;Fruita i verdura rblanova;17.46;Fruteria y Verduleria;1;ene-21
+15/01/2021;Consum mollet del valles;28.37;Supermercado;1;ene-21
+18/01/2021;Consum mollet del valles;29.56;Supermercado;1;ene-21
+18/01/2021;Consum mollet del valles;62.59;Supermercado;1;ene-21
+18/01/2021;Adeudo telefonica de espana sau;12.77;Telefonia;1;ene-21
+20/01/2021;T945;37.72;Supermercado;1;ene-21
+20/01/2021;Casa ametller mollet;32.93;Fruteria y Verduleria;1;ene-21
+20/01/2021;Foz;22.08;Ropa y Complementos;1;ene-21
+20/01/2021;Farmacia amado;19.22;Farmacia;1;ene-21
+20/01/2021;Bra cafe;2.38;Panaderia y Cafeteria;1;ene-21
+20/01/2021;Vime style;31.05;Peluqueria y estetica;1;ene-21
+21/01/2021;Consum mollet del valles;80.1;Supermercado;1;ene-21
+21/01/2021;Notaria i irulegui perez;60.21;Otros;1;ene-21
+21/01/2021;Consum mollet del valles;12.07;Supermercado;1;ene-21
+25/01/2021;Consum mollet del valles;59.79;Supermercado;2;feb-21
+25/01/2021;Disposicion de efectivo en cajero servired;207;Retirada dinero;2;feb-21
+25/01/2021;Moniberic;12.08;Carniceria y Charcuteria;2;feb-21
+25/01/2021;Orriols;1.35;Panaderia y Cafeteria;2;feb-21
+27/01/2021;Adeudo de gas natural;42.26;Gas y Luz;2;feb-21
+27/01/2021;Vodafone;31.37;Telefonia;2;feb-21
+28/01/2021;Peixos mollet;8.69;Pescaderia;2;feb-21
+28/01/2021;Calzedonia;8.25;Ropa y Complementos;2;feb-21
+28/01/2021;Ret. efectivo  a debito con tarj. en cajero. aut.;138;Retirada dinero;2;feb-21
+28/01/2021;Calzedonia;15.84;Ropa y Complementos;2;feb-21
+29/01/2021;Fruita i verdura rblanova;19;Fruteria y Verduleria;2;feb-21
+29/01/2021;Consum mollet del valles;89.34;Supermercado;2;feb-21
+29/01/2021;Consum mollet del valles;13.6;Supermercado;2;feb-21
+29/01/2021;Tentazioni;34.47;Ropa y Complementos;2;feb-21
+29/01/2021;Orriols;8.34;Panaderia y Cafeteria;2;feb-21
+29/01/2021;Calzedonia;38.47;Ropa y Complementos;2;feb-21
+29/01/2021;Adeudo orange-france telecom;31.01;Telefonia;2;feb-21
+01/02/2021;Bra cafe;2.38;Panaderia y Cafeteria;2;feb-21
+01/02/2021;Orriols;12.63;Panaderia y Cafeteria;2;feb-21
+01/02/2021;Moda sport conan;55.2;Ropa y Complementos;2;feb-21
+01/02/2021;Cargo operaciones tarjeta credito;1.45;Teletac;2;feb-21
+02/02/2021;Consum mollet del valles;10.46;Supermercado;2;feb-21
+02/02/2021;Orriols;1.38;Panaderia y Cafeteria;2;feb-21
+02/02/2021;Ret. efectivo  a debito con tarj. en cajero. aut.;69;Retirada dinero;2;feb-21
+02/02/2021;Farmacia rambla nova 25;28.79;Farmacia;2;feb-21
+02/02/2021;Adeudo santa lucia s.a.;28.12;Seguro Vida/Salud;2;feb-21
+02/02/2021;Adeudo societat de socors mutus de mollet;24.18;Seguro Vida/Salud;2;feb-21
+02/02/2021;Adeudo societat de socors mutus de mollet;24.18;Seguro Vida/Salud;2;feb-21
+02/02/2021;Adeudo de gas natural;81.3;Gas y Luz;2;feb-21
+02/02/2021;Cigna life insurance company of europe;7.69;Seguro Vida/Salud;2;feb-21
+03/02/2021;Bra cafe;2.38;Panaderia y Cafeteria;2;feb-21
+03/02/2021;Mollet;2.89;Otros;2;feb-21
+03/02/2021;Con an street sl;6.14;Ropa y Complementos;2;feb-21
+03/02/2021;Tentazioni;13.79;Ropa y Complementos;2;feb-21
+03/02/2021;Adeudo josep fortuny soler;66.93;Gastos Comunidad;2;feb-21
+03/02/2021;Adeudo josep fortuny soler;25.53;Gastos Comunidad Burgos;2;feb-21
+05/02/2021;Consum mollet del valles;97.3;Supermercado;2;feb-21
+05/02/2021;Fruita i verdura rblanova;15.37;Fruteria y Verduleria;2;feb-21
+05/02/2021;Granier;1.26;Panaderia y Cafeteria;2;feb-21
+05/02/2021;Floristeria orquidea;4.14;Hogar;2;feb-21
+05/02/2021;Farmacia barbero;18.29;Farmacia;2;feb-21
+05/02/2021;Adeudo agbar (soc.gral.aguas bcn);73.69;Agua;2;feb-21
+05/02/2021;Adeudo mensual de tarjeta;12.42;Teletac;2;feb-21
+08/02/2021;Adeudo santa lucia s.a.;110.54;Seguro Piso Burgos;2;feb-21
+08/02/2021;Recibo de prestamo;73.42;Parking;2;feb-21
+09/02/2021;Adeudo de bbva seguros;10.38;Seguro Vida/Salud;2;feb-21
+10/02/2021;Consum mollet del valles;7;Supermercado;2;feb-21
+10/02/2021;Moniberic;15.01;Carniceria y Charcuteria;2;feb-21
+10/02/2021;Saloa units sl;19.52;Ropa y Complementos;2;feb-21
+10/02/2021;Vime style;40.71;Peluqueria y estetica;2;feb-21
+10/02/2021;Mini boy i el penjador de;7.97;Otros;2;feb-21
+11/02/2021;Consum mollet del valles;28.73;Supermercado;2;feb-21
+11/02/2021;Falguera;6.9;Otros;2;feb-21
+11/02/2021;Orriols;3.95;Panaderia y Cafeteria;2;feb-21
+11/02/2021;Farmacia rambla nova 25;4.28;Farmacia;2;feb-21
+11/02/2021;Cargo por cobro de servicios;9.66;Mantenimiento Cuenta;3;feb-21
+12/02/2021;Consum mollet del valles;71.18;Supermercado;2;feb-21
+12/02/2021;Centre dietetic teresa po;7;Dietetica;2;feb-21
+12/02/2021;Fruita i verdura rblanova;19.12;Fruteria y Verduleria;2;feb-21
+16/02/2021;Moda sport conan;42.16;Ropa y Complementos;2;feb-21
+16/02/2021;Panaderia jaime i;3.17;Panaderia y Cafeteria;2;feb-21
+16/02/2021;Moniberic;28.22;Carniceria y Charcuteria;2;feb-21
+16/02/2021;Flores ana;13.46;Hogar;2;feb-21
+16/02/2021;Bra cafe;5.87;Panaderia y Cafeteria;2;feb-21
+16/02/2021;Jorge soria;6.14;Otros;2;feb-21
+16/02/2021;Marta alonso;9.94;Otros;2;feb-21
+16/02/2021;Adeudo telefonica de espana sau;15.5;Telefonia;2;feb-21
+17/02/2021;Consum mollet del valles;53.2;Supermercado;2;feb-21
+17/02/2021;Fauna tarres;6.76;Perros;2;feb-21
+19/02/2021;La sirena mollet (rbla. n;21.43;Congelados;2;feb-21
+19/02/2021;Consum mollet del valles;22.99;Supermercado;2;feb-21
+23/02/2021;Farmacia rambla nova 25;21.07;Farmacia;2;feb-21
+23/02/2021;Jose rodriguez marquina;7.34;Otros;2;feb-21
+23/02/2021;Orriols;1.38;Panaderia y Cafeteria;2;feb-21
+23/02/2021;Hello nails mollet;10.28;Peluqueria y estetica;2;feb-21
+23/02/2021;Consum mollet del valles;101.29;Supermercado;2;feb-21
+24/02/2021;Vodafone;31.37;Telefonia;2;feb-21
+25/02/2021;Orriols;1.35;Panaderia y Cafeteria;3;mar-21
+25/02/2021;Adeudo de gas natural;103.41;Gas y Luz;3;mar-21
+26/02/2021;Macxipa;3.88;Panaderia y Cafeteria;3;mar-21
+26/02/2021;Bra cafe;2.21;Panaderia y Cafeteria;3;mar-21
+26/02/2021;Ret. efectivo  a debito con tarj. en cajero. aut.;138;Retirada dinero;3;mar-21
+26/02/2021;Drogueria montseny;13.48;Ferreteria y Drogueria;3;mar-21
+26/02/2021;Adeudo orange-france telecom;28.54;Telefonia;3;mar-21
+01/03/2021;Traspaso a cuenta;69;Autonomos/LEX Valles;3;mar-21
+01/03/2021;Consum mollet del valles;92.96;Supermercado;3;mar-21
+01/03/2021;Fruita i verdura rblanova;18.58;Fruteria y Verduleria;3;mar-21
+02/03/2021;Adeudo santa lucia s.a.;29.24;Seguro Vida/Salud;3;mar-21
+02/03/2021;Adeudo josep fortuny soler;25.53;Gastos Comunidad Burgos;3;mar-21
+02/03/2021;Adeudo josep fortuny soler;66.93;Gastos Comunidad;3;mar-21
+02/03/2021;Adeudo societat de socors mutus de mollet;24.18;Seguro Vida/Salud;3;mar-21
+02/03/2021;Adeudo societat de socors mutus de mollet;24.18;Seguro Vida/Salud;3;mar-21
+03/03/2021;Purificacion garcia;30.36;Ropa y Complementos;3;mar-21
+03/03/2021;Textil textura la roca;14.22;Hogar;3;mar-21
+03/03/2021;Moniberic;29.38;Carniceria y Charcuteria;3;mar-21
+03/03/2021;Bra cafe;2.21;Panaderia y Cafeteria;3;mar-21
+03/03/2021;Vime style;32.43;Peluqueria y estetica;3;mar-21
+03/03/2021;Adeudo edc.gastronomia s.a.;34.16;Suscripcion anual;3;mar-21
+03/03/2021;Cigna life insurance company of europe;7.69;Seguro Vida/Salud;3;mar-21
+04/03/2021;Factori vinzia;24.84;Hogar;3;mar-21
+05/03/2021;Centre dietetic teresa po;11.25;Dietetica;3;mar-21
+05/03/2021;Orriols;3.42;Panaderia y Cafeteria;3;mar-21
+05/03/2021;Consum mollet del valles;89.62;Supermercado;3;mar-21
+05/03/2021;Modes blasi;12.42;Ropa y Complementos;3;mar-21
+05/03/2021;Farmacia rambla nova 25;7.59;Farmacia;3;mar-21
+05/03/2021;Calzedonia;20.67;Ropa y Complementos;3;mar-21
+05/03/2021;Adeudo mensual de tarjeta;0.62;Teletac;3;mar-21
+08/03/2021;Moniberic;13.13;Carniceria y Charcuteria;3;mar-21
+08/03/2021;Tentazioni;20.7;Ropa y Complementos;3;mar-21
+08/03/2021;Recibo de prestamo;73.42;Parking;3;mar-21
+09/03/2021;Centre dietetic teresa po;15.97;Dietetica;3;mar-21
+09/03/2021;Farmacia rambla nova 25;8.16;Farmacia;3;mar-21
+09/03/2021;Mercadona plaza cinco pin;69.8;Supermercado;3;mar-21
+09/03/2021;Adeudo de bbva seguros;10.38;Seguro Vida/Salud;3;mar-21
+11/03/2021;Consum mollet del valles;95.54;Supermercado;3;mar-21
+11/03/2021;Centre dietetic teresa po;2.83;Dietetica;3;mar-21
+11/03/2021;Cargo por cobro de servicios;9.66;Mantenimiento Cuenta;3;mar-21
+12/03/2021;Fruita i verdura rblanova;10.46;Fruteria y Verduleria;3;mar-21
+12/03/2021;Modes blasi;46.92;Ropa y Complementos;3;mar-21
+15/03/2021;Orriols;1.28;Panaderia y Cafeteria;3;mar-21
+15/03/2021;Dismoda  comercio y dist;14.9;Ropa y Complementos;3;mar-21
+16/03/2021;Farmacia amado;12.39;Farmacia;3;mar-21
+16/03/2021;Hello nails mollet;12.35;Peluqueria y estetica;3;mar-21
+16/03/2021;Bra cafe;2.38;Panaderia y Cafeteria;3;mar-21
+16/03/2021;Adeudo telefonica de espana sau;13.44;Telefonia;3;mar-21
+18/03/2021;Consum mollet del valles;55.28;Supermercado;3;mar-21
+18/03/2021;Drogueria montseny;12.72;Ferreteria y Drogueria;3;mar-21
+18/03/2021;Dreams colors;6.44;Peluqueria y estetica;3;mar-21
+18/03/2021;Bra cafe;2.21;Panaderia y Cafeteria;3;mar-21
+19/03/2021;L'art del cosir;11.04;Ropa y Complementos;3;mar-21
+22/03/2021;Lidl mollet del vall s;13.21;Supermercado;3;mar-21
+22/03/2021;Bon preu, s.a.u.;2.55;Supermercado;3;mar-21
+22/03/2021;Amzn mktp es*mu7t59zq4;11.79;Perros;3;mar-21
+22/03/2021;Farmacia rambla nova 25;9.99;Farmacia;3;mar-21
+22/03/2021;Simon material electrico-;6.62;Ferreteria y Drogueria;3;mar-21
+22/03/2021;Bra cafe;2.38;Panaderia y Cafeteria;3;mar-21
+22/03/2021;Consum mollet del valles;5.13;Supermercado;3;mar-21
+22/03/2021;Consum mollet del valles;113.3;Supermercado;3;mar-21
+23/03/2021;Fruita i verdura rblanova;11.5;Fruteria y Verduleria;3;mar-21
+24/03/2021;Calzedonia;5.49;Ropa y Complementos;3;mar-21
+24/03/2021;Moniberic;19.07;Carniceria y Charcuteria;3;mar-21
+24/03/2021;Orriols;10.16;Panaderia y Cafeteria;3;mar-21
+24/03/2021;Vime style;32.43;Peluqueria y estetica;3;mar-21
+25/03/2021;Consum mollet del valles;21.44;Supermercado;4;abr-21
+25/03/2021;Adeudo de gas natural;102.73;Gas y Luz;4;abr-21
+25/03/2021;Vodafone;31.37;Telefonia;4;abr-21
+26/03/2021;Consum mollet del valles;68.57;Supermercado;4;abr-21
+26/03/2021;Casa bella;52.43;Hogar;4;abr-21
+26/03/2021;Merkalzados mollet;20.73;Ropa y Complementos;4;abr-21
+26/03/2021;Orriols;1.79;Panaderia y Cafeteria;4;abr-21
+26/03/2021;Macxipa;2.9;Panaderia y Cafeteria;4;abr-21
+26/03/2021;Bra cafe;2.38;Panaderia y Cafeteria;4;abr-21
+26/03/2021;Farmacia rambla nova 25;22.74;Farmacia;4;abr-21
+29/03/2021;La sirena mollet (rbla. n;36.31;Congelados;4;abr-21
+29/03/2021;Faunamic;53.74;Perros;4;abr-21
+29/03/2021;Orriols;1.28;Panaderia y Cafeteria;4;abr-21
+29/03/2021;Farmacia rambla nova 25;6.13;Farmacia;4;abr-21
+29/03/2021;Gran bazar 1;4.42;Hogar;4;abr-21
+29/03/2021;Bra cafe;2.38;Panaderia y Cafeteria;4;abr-21
+29/03/2021;Lidl mollet del vall s;37.94;Supermercado;4;abr-21
+30/03/2021;Ret. efectivo  a debito con tarj. en cajero. aut.;103.5;Retirada dinero;4;abr-21
+30/03/2021;Orriols;1.38;Panaderia y Cafeteria;4;abr-21
+30/03/2021;Consum mollet del valles;29.71;Supermercado;4;abr-21
+30/03/2021;Orriols;2.28;Panaderia y Cafeteria;4;abr-21
+30/03/2021;Hello nails mollet;8.21;Peluqueria y estetica;4;abr-21
+31/03/2021;Adeudo orange-france telecom;24.22;Telefonia;4;abr-21
+01/04/2021;Consum mollet del valles;97.68;Supermercado;4;abr-21
+01/04/2021;Macxipa;4.17;Panaderia y Cafeteria;4;abr-21
+01/04/2021;Fruita i verdura rblanova;12.16;Fruteria y Verduleria;4;abr-21
+01/04/2021;Muy mucho mollet;16.64;Hogar;4;abr-21
+01/04/2021;Adeudo josep fortuny soler;66.93;Gastos Comunidad;4;abr-21
+01/04/2021;Adeudo josep fortuny soler;25.53;Gastos Comunidad Burgos;4;abr-21
+01/04/2021;Adeudo josep fortuny soler;39.33;Gastos Comunidad Burgos;4;abr-21
+01/04/2021;Adeudo santa lucia s.a.;28.76;Seguro Vida/Salud;4;abr-21
+05/04/2021;Ret. efectivo  a debito con tarj. en cajero. aut.;34.5;Retirada dinero;4;abr-21
+05/04/2021;Adeudo mensual de tarjeta;3.15;Teletac;4;abr-21
+06/04/2021;Fruterias angela;26.15;Fruteria y Verduleria;4;abr-21
+06/04/2021;Moniberic;12.12;Carniceria y Charcuteria;4;abr-21
+06/04/2021;Consum mollet del valles;20;Supermercado;4;abr-21
+06/04/2021;Adeudo societat de socors mutus de mollet;24.18;Seguro Vida/Salud;4;abr-21
+06/04/2021;Adeudo societat de socors mutus de mollet;24.18;Seguro Vida/Salud;4;abr-21
+06/04/2021;Cigna life insurance company of europe;7.69;Seguro Vida/Salud;4;abr-21
+07/04/2021;Peixeteria loli;21.31;Pescaderia;4;abr-21
+07/04/2021;Lledo ferreters sl;8.14;Ferreteria y Drogueria;4;abr-21
+07/04/2021;Orriols;2.1;Panaderia y Cafeteria;4;abr-21
+08/04/2021;Recibo de prestamo;73.42;Parking;4;abr-21
+09/04/2021;Consum mollet del valles;93.52;Supermercado;4;abr-21
+09/04/2021;Prats pa, s.l.;5.82;Panaderia y Cafeteria;4;abr-21
+09/04/2021;Drogueria montseny;13.36;Ferreteria y Drogueria;4;abr-21
+09/04/2021;Bra cafe;3.11;Panaderia y Cafeteria;4;abr-21
+09/04/2021;Adeudo de bbva seguros;10.38;Seguro Vida/Salud;4;abr-21
+11/04/2021;Cargo por cobro de servicios;9.66;Mantenimiento Cuenta;4;abr-21
+12/04/2021;Fruita i verdura rblanova;13.54;Fruteria y Verduleria;4;abr-21
+12/04/2021;Orriols;1.28;Panaderia y Cafeteria;4;abr-21
+12/04/2021;Bra cafe;3.11;Panaderia y Cafeteria;4;abr-21
+13/04/2021;Panaderia jaime i;4.38;Panaderia y Cafeteria;4;abr-21
+13/04/2021;Calcats puman;44.85;Ropa y Complementos;4;abr-21
+13/04/2021;Bra cafe;2.38;Panaderia y Cafeteria;4;abr-21
+13/04/2021;Vime style;34.5;Peluqueria y estetica;4;abr-21
+14/04/2021;Bra cafe;2.38;Panaderia y Cafeteria;4;abr-21
+14/04/2021;Institut medic baix valle;20.7;Consulta Medica;4;abr-21
+15/04/2021;Orriols;1.28;Panaderia y Cafeteria;4;abr-21
+15/04/2021;L isard cb;34.75;Ropa y Complementos;4;abr-21
+15/04/2021;Lidl mollet del vall s;56.8;Supermercado;4;abr-21
+15/04/2021;Bra cafe;2.21;Panaderia y Cafeteria;4;abr-21
+15/04/2021;Hello nails mollet;22.7;Peluqueria y estetica;4;abr-21
+16/04/2021;Consum mollet del valles mollet del vaes;18.86;Supermercado;4;abr-21
+16/04/2021;Lidl mollet del vall s   barcelona    es;5.53;Supermercado;4;abr-21
+16/04/2021;Adeudo telefonica de espana sau;14.78;Telefonia;4;abr-21
+19/04/2021;Orriols                  mollet del vaes;1.38;Panaderia y Cafeteria;4;abr-21
+19/04/2021;Consum mollet del valles mollet del vaes;27.34;Supermercado;4;abr-21
+19/04/2021;Bra cafe                 mollet       es;1.69;Panaderia y Cafeteria;4;abr-21
+19/04/2021;Adeudo de seguros;284.84;Seguro Piso Burgos;4;abr-21
+19/04/2021;Consum mollet del valles mollet del vaes;116.36;Supermercado;4;abr-21
+21/04/2021;Gran bazar 1;4.14;Hogar;4;abr-21
+23/04/2021;Consum mollet del valles;35.8;Supermercado;4;abr-21
+23/04/2021;Prats pa, s.l.;1.76;Panaderia y Cafeteria;4;abr-21
+24/04/2021;Orriols;3.66;Panaderia y Cafeteria;4;abr-21
+26/04/2021;Lidl mollet del vall s;8.25;Supermercado;5;may-21
+26/04/2021;Adeudo de gas natural;102.88;Gas y Luz;5;may-21
+26/04/2021;Vodafone;31.37;Telefonia;5;may-21
+27/04/2021;Consum mollet del valles;56.7;Supermercado;5;may-21
+27/04/2021;Fruita i verdura rblanova;20.67;Fruteria y Verduleria;5;may-21
+27/04/2021;Farmacia rambla nova 25;17.72;Farmacia;5;may-21
+27/04/2021;Bra cafe;1.83;Panaderia y Cafeteria;5;may-21
+27/04/2021;Vime style;38.64;Peluqueria y estetica;5;may-21
+28/04/2021;Adn stetic;4.83;Peluqueria y estetica;5;may-21
+28/04/2021;El raco de la salut;28.91;Ropa y Complementos;5;may-21
+28/04/2021;Beauty by dia mollet del;28.12;Ropa y Complementos;5;may-21
+28/04/2021;1020 viena mollet;5.11;Panaderia y Cafeteria;5;may-21
+29/04/2021;Orriols;2.1;Panaderia y Cafeteria;5;may-21
+29/04/2021;Institut medic baix valle;6.9;Consulta Medica;5;may-21
+30/04/2021;Pastisseria vinallonga;4.24;Panaderia y Cafeteria;5;may-21
+30/04/2021;Consum mollet del valles;58.37;Supermercado;5;may-21
+30/04/2021;Druni mollet del valles;9.32;Ferreteria y Drogueria;5;may-21
+30/04/2021;Bra cafe;2.52;Panaderia y Cafeteria;5;may-21
+30/04/2021;Adeudo santa lucia s.a.;140.89;Seguro Piso;5;may-21
+30/04/2021;Adeudo orange-france telecom;17.66;Telefonia;5;may-21
+03/05/2021;Carrefour.es;85.46;Supermercado;5;may-21
+03/05/2021;Bra cafe;2.38;Panaderia y Cafeteria;5;may-21
+03/05/2021;Adeudo josep fortuny soler;25.53;Gastos Comunidad Burgos;5;may-21
+03/05/2021;Adeudo josep fortuny soler;66.93;Gastos Comunidad;5;may-21
+03/05/2021;Adeudo santa lucia s.a.;28.76;Seguro Vida/Salud;5;may-21
+03/05/2021;Adeudo aj. mollet del valles;14.45;Impuesto Burgos;5;may-21
+03/05/2021;Adeudo aj. mollet del valles;62.89;Impuesto Burgos;5;may-21
+03/05/2021;Adeudo aj. mollet del valles;134.98;Impuesto;5;may-21
+03/05/2021;com. Prop. Parking abar escarre, 1-5;46.92;Parking;5;may-21
+04/05/2021;Modes blasi;3.45;Ropa y Complementos;5;may-21
+04/05/2021;Adeudo axa seguros generales, s.a.;206.4;Seguro Coche;5;may-21
+04/05/2021;Ret. efectivo  a debito con tarj. en cajero. aut.;34.5;Retirada dinero;5;may-21
+04/05/2021;Orriols;1.38;Panaderia y Cafeteria;5;may-21
+04/05/2021;Vime style;28.98;Peluqueria y estetica;5;may-21
+04/05/2021;Adeudo societat de socors mutus de mollet;24.18;Seguro Vida/Salud;5;may-21
+04/05/2021;Adeudo societat de socors mutus de mollet;24.18;Seguro Vida/Salud;5;may-21
+06/05/2021;Cigna life insurance company of europe;7.69;Seguro Vida/Salud;5;may-21
+07/05/2021;Adeudo agbar (soc.gral.aguas bcn);79.02;Agua;5;may-21
+08/05/2021;Recibo de prestamo;73.42;Parking;5;may-21
+09/05/2021;Adeudo de bbva seguros;10.38;Seguro Vida/Salud;5;may-21
+10/05/2021;Consum mollet del valles;19.43;Supermercado;5;may-21
+11/05/2021;Saloa units sl;17.93;Ropa y Complementos;5;may-21
+11/05/2021;Consum mollet del valles;32.65;Supermercado;5;may-21
+11/05/2021;Prats pa, s.l.;1.38;Panaderia y Cafeteria;5;may-21
+11/05/2021;Hello nails mollet;22.7;Peluqueria y estetica;5;may-21
+11/05/2021;Cargo por cobro de servicios;9.66;Mantenimiento Cuenta;5;may-21
+13/05/2021;Consum mollet del valles;81.83;Supermercado;5;may-21
+13/05/2021;Fruita i verdura rblanova;11.6;Fruteria y Verduleria;5;may-21
+13/05/2021;Farmacia rambla nova 25;13.56;Farmacia;5;may-21
+17/05/2021;Ret. efectivo  a debito con tarj. en cajero. aut.;48.3;Perros;5;may-21
+17/05/2021;Consum mollet del valles;10.3;Supermercado;5;may-21
+18/05/2021;Orriols;2.83;Panaderia y Cafeteria;5;may-21
+19/05/2021;Carrefour.es;57.58;Supermercado;5;may-21
+19/05/2021;Consum mollet del valles;6.86;Supermercado;5;may-21
+21/05/2021;Bon area                 mollet del vaes;17.87;Carniceria y Charcuteria;5;may-21
+24/05/2021;Fruita i verdura rblanova;13.2;Fruteria y Verduleria;5;may-21
+25/05/2021;Consum mollet del valles;24.49;Supermercado;6;jun-21
+25/05/2021;Adeudo de gas natural;103.31;Gas y Luz;6;jun-21
+26/05/2021;Moniberic;19.01;Carniceria y Charcuteria;6;jun-21
+26/05/2021;Vodafone;31.72;Telefonia;6;jun-21
+27/05/2021;La sirena mollet (rbla. n;17.65;Congelados;6;jun-21
+27/05/2021;Bra cafe;2.14;Panaderia y Cafeteria;6;jun-21
+27/05/2021;Institut medic baix valle;6.9;Consulta Medica;6;jun-21
+27/05/2021;Foz;88.25;Ropa y Complementos;6;jun-21
+27/05/2021;Orriols;2.88;Panaderia y Cafeteria;6;jun-21
+27/05/2021;Vime style;42.78;Peluqueria y estetica;6;jun-21
+28/05/2021;Farmacia rambla nova 25;17.45;Farmacia;6;jun-21
+28/05/2021;Consum mollet del valles;82.39;Supermercado;6;jun-21
+31/05/2021;Adeudo orange-france telecom;19.32;Telefonia;6;jun-21
+01/06/2021;Modes blasi;13.73;Ropa y Complementos;6;jun-21
+01/06/2021;L'art del cosir;2.76;Ropa y Complementos;6;jun-21
+01/06/2021;Orriols;1.38;Panaderia y Cafeteria;6;jun-21
+01/06/2021;Toscana 2013 mollet;24.01;Ropa y Complementos;6;jun-21
+01/06/2021;Hello nails mollet;18.63;Peluqueria y estetica;6;jun-21
+01/06/2021;Adeudo santa lucia s.a.;28.76;Seguro Vida/Salud;6;jun-21
+02/06/2021;Fruita i verdura rblanova;10.29;Fruteria y Verduleria;6;jun-21
+02/06/2021;Adeudo josep fortuny soler;25.53;Gastos Comunidad Burgos;6;jun-21
+02/06/2021;Adeudo josep fortuny soler;66.93;Gastos Comunidad;6;jun-21
+03/06/2021;Adeudo societat de socors mutus de mollet;24.18;Seguro Vida/Salud;6;jun-21
+03/06/2021;Adeudo societat de socors mutus de mollet;24.18;Seguro Vida/Salud;6;jun-21
+03/06/2021;Cigna life insurance company of europe;7.69;Seguro Vida/Salud;6;jun-21
+04/06/2021;Carrefour.es;54.54;Supermercado;6;jun-21
+04/06/2021;Pastisseria viãallonga;1.55;Panaderia y Cafeteria;6;jun-21
+04/06/2021;Consum mollet del valles;54.64;Supermercado;6;jun-21
+05/06/2021;Adeudo mensual de tarjeta;1.44;Teletac;6;jun-21
+08/06/2021;Fruterias angela;7.19;Fruteria y Verduleria;6;jun-21
+08/06/2021;Lledo ferreters sl;8.28;Ferreteria y Drogueria;6;jun-21
+08/06/2021;Recibo de prestamo;73.42;Parking;6;jun-21
+09/06/2021;Fruterias angela;13.34;Fruteria y Verduleria;6;jun-21
+09/06/2021;Adeudo de bbva seguros;10.38;Seguro Vida/Salud;6;jun-21
+10/06/2021;R e m e i;31.53;Ropa y Complementos;6;jun-21
+11/06/2021;Fruita bona;8.8;Fruteria y Verduleria;6;jun-21
+11/06/2021;Cargo por cobro de servicios;9.66;Mantenimiento Cuenta;6;jun-21
+12/06/2021;Farmacia rambla nova 25;10.97;Farmacia;6;jun-21
+12/06/2021;Consum mollet del valles;50.72;Supermercado;6;jun-21
+14/06/2021;Fruita i verdura rblanova;11.94;Fruteria y Verduleria;6;jun-21
+14/06/2021;Moniberic;19.49;Carniceria y Charcuteria;6;jun-21
+14/06/2021;Ret. efectivo  a debito con tarj. en cajero. aut.;69;Autonomos/LEX Valles;6;jun-21
+15/06/2021;Liquidacion de intereses-comisiones-gastos;2.58;Mantenimiento Cuenta;6;jun-21
+17/06/2021;Modes blasi;6.83;Ropa y Complementos;6;jun-21
+17/06/2021;Casa ametller mollet;18.84;Fruteria y Verduleria;6;jun-21
+17/06/2021;Vime style;39.68;Peluqueria y estetica;6;jun-21
+18/06/2021;Consum mollet del valles mollet del vaes;75.91;Supermercado;6;jun-21
+19/06/2021;Mucho que esperar s.l.   barcelona    es;33.12;Otros;6;jun-21
+19/06/2021;Ares flors               barcelona    es;12.42;Otros;6;jun-21
+21/06/2021;Fruita i verdura rblanova;12.3;Fruteria y Verduleria;6;jun-21
+21/06/2021;Macxipa;4.06;Panaderia y Cafeteria;6;jun-21
+23/06/2021;La sirena mollet (rbla. n;22.5;Congelados;6;jun-21
+23/06/2021;Macxipa;18.2;Panaderia y Cafeteria;6;jun-21
+24/06/2021;Adeudo de gas natural;103.43;Gas y Luz;6;jun-21
+24/06/2021;Vodafone;31.37;Telefonia;6;jun-21
+25/06/2021;Consum mollet del valles;86.16;Supermercado;7;jul-21
+25/06/2021;Consum mollet del valles;8.38;Supermercado;7;jul-21
+25/06/2021;Farmacia rambla nova 25;18.5;Farmacia;7;jul-21
+25/06/2021;Adeudo de telefonica;9.89;Telefonia;7;jul-21
+26/06/2021;Consum mollet del valles;53.96;Supermercado;7;jul-21
+28/06/2021;Macxipa;4.35;Panaderia y Cafeteria;7;jul-21
+28/06/2021;Bra cafe;5.31;Panaderia y Cafeteria;7;jul-21
+29/06/2021;L'art del cosir;17.32;Ropa y Complementos;7;jul-21
+29/06/2021;Fruterias angela;5.51;Fruteria y Verduleria;7;jul-21
+30/06/2021;Fruita i verdura rblanova;14.03;Fruteria y Verduleria;7;jul-21
+30/06/2021;Adeudo orange-france telecom;18.22;Telefonia;7;jul-21
+30/06/2021;Pago de Impuesto;156.51;Impuesto;7;jul-21
+01/07/2021;Macxipa;4.11;Panaderia y Cafeteria;7;jul-21
+01/07/2021;R e m e i;7.94;Ropa y Complementos;7;jul-21
+01/07/2021;Pastisseria vinallonga;3;Panaderia y Cafeteria;7;jul-21
+01/07/2021;Rosa de monserrat;3.45;Ropa y Complementos;7;jul-21
+01/07/2021;Dreams colors;10.33;Ropa y Complementos;7;jul-21
+01/07/2021;Institut medic baix valle;6.9;Consulta Medica;7;jul-21
+01/07/2021;Adeudo santa lucia s.a.;28.76;Seguro Vida/Salud;7;jul-21
+01/07/2021;Adeudo aj. mollet del valles;14.45;Impuesto Burgos;7;jul-21
+01/07/2021;Adeudo aj. mollet del valles;62.89;Impuesto Burgos;7;jul-21
+01/07/2021;Adeudo aj. mollet del valles;134.98;Impuesto;7;jul-21
+01/07/2021;Cargo operaciones tarjeta credito;0.98;Teletac;7;jul-21
+02/07/2021;Consum mollet del valles;57.92;Supermercado;7;jul-21
+02/07/2021;Fruterias angela;8.83;Fruteria y Verduleria;7;jul-21
+02/07/2021;Adeudo josep fortuny soler;25.53;Gastos Comunidad Burgos;7;jul-21
+02/07/2021;Adeudo josep fortuny soler;66.93;Gastos Comunidad;7;jul-21
+02/07/2021;Adeudo josep fortuny soler;39.33;Gastos Comunidad Burgos;7;jul-21
+05/07/2021;Merkalzados mollet;12.45;Ropa y Complementos;7;jul-21
+05/07/2021;Macxipa;2.66;Panaderia y Cafeteria;7;jul-21
+05/07/2021;Fruterias angela;15.51;Fruteria y Verduleria;7;jul-21
+05/07/2021;Cigna life insurance company of europe;7.69;Seguro Vida/Salud;7;jul-21
+06/07/2021;Merkalzados mollet;51.76;Ropa y Complementos;7;jul-21
+06/07/2021;Adeudo societat de socors mutus de mollet;24.18;Seguro Vida/Salud;7;jul-21
+06/07/2021;Adeudo societat de socors mutus de mollet;24.18;Seguro Vida/Salud;7;jul-21
+07/07/2021;Consum mollet del valles;16.46;Supermercado;7;jul-21
+08/07/2021;Pastisseria vinallonga;6.56;Panaderia y Cafeteria;7;jul-21
+08/07/2021;Jose rodriguez marquina;6.18;Otros;7;jul-21
+08/07/2021;Moniberic;28.64;Carniceria y Charcuteria;7;jul-21
+08/07/2021;Bra cafe;2.04;Panaderia y Cafeteria;7;jul-21
+08/07/2021;Vime style;31.05;Peluqueria y estetica;7;jul-21
+08/07/2021;Recibo de prestamo;73.42;Parking;7;jul-21
+09/07/2021;Fruita i verdura rblanova;17.81;Fruteria y Verduleria;7;jul-21
+09/07/2021;Adeudo de bbva seguros;10.38;Seguro Vida/Salud;7;jul-21
+10/07/2021;Consum mollet del valles;42.66;Supermercado;7;jul-21
+10/07/2021;Condis mollet del valles;56.75;Supermercado;7;jul-21
+10/07/2021;Bra cafe;2.38;Panaderia y Cafeteria;7;jul-21
+11/07/2021;Cargo por cobro de servicios;9.66;Mantenimiento Cuenta;7;jul-21
+12/07/2021;Modes blasi;17.25;Ropa y Complementos;7;jul-21
+12/07/2021;Macxipa;3.52;Panaderia y Cafeteria;7;jul-21
+12/07/2021;Drogueria montseny;20.61;Ferreteria y Drogueria;7;jul-21
+13/07/2021;Transferencia realizada;345;Transferencia;7;jul-21
+13/07/2021;Flores ana;4.83;Hogar;7;jul-21
+13/07/2021;Fruteria angela;11.47;Fruteria y Verduleria;7;jul-21
+13/07/2021;Roca factory;22.08;Ropa y Complementos;7;jul-21
+13/07/2021;Roba interior marta;25.88;Ropa y Complementos;7;jul-21
+16/07/2021;El corte ingles sabadell;67.55;Supermercado;7;jul-21
+16/07/2021;Hao sushi;40.99;Otros;7;jul-21
+16/07/2021;Consum mollet del valles;2.75;Supermercado;7;jul-21
+16/07/2021;Consum mollet del valles;55.08;Supermercado;7;jul-21
+19/07/2021;Ret. efectivo  a debito con tarj. en cajero. aut.;13.8;Retirada dinero;7;jul-21
+19/07/2021;Ret. efectivo  a debito con tarj. en cajero. aut.;41.4;Perros;7;jul-21
+23/07/2021;Consum mollet del valles mollet del vaes;14.77;Supermercado;7;jul-21
+26/07/2021;Fruita i verdura rblanova;18.33;Fruteria y Verduleria;8;ago-21
+26/07/2021;Farmacia rambla nova 25;31.4;Farmacia;8;ago-21
+26/07/2021;Consum mollet del valles;46.02;Supermercado;8;ago-21
+26/07/2021;Lidl mollet del vall s;23.21;Supermercado;8;ago-21
+26/07/2021;Adeudo de telefonica;12.46;Telefonia;8;ago-21
+26/07/2021;Adeudo de gas natural;94.92;Gas y Luz;8;ago-21
+26/07/2021;Vodafone;23.34;Telefonia;8;ago-21
+28/07/2021;Prats pa;2.93;Panaderia y Cafeteria;8;ago-21
+28/07/2021;El raco de la salut;6.76;Dietetica;8;ago-21
+29/07/2021;Carrefour.es;43.9;Supermercado;8;ago-21
+30/07/2021;Mercadona plaza cinco pin;59.32;Supermercado;8;ago-21
+30/07/2021;Ret. efectivo  a debito con tarj. en cajero. aut.;34.5;Mantenimiento;8;ago-21
+30/07/2021;Adeudo orange-france telecom;18.3;Telefonia;8;ago-21
+01/08/2021;Cargo operaciones tarjeta credito;10.35;Teletac;8;ago-21
+02/08/2021;Macxipa;2.41;Panaderia y Cafeteria;8;ago-21
+02/08/2021;Adeudo santa lucia s.a.;28.76;Seguro Vida/Salud;8;ago-21
+02/08/2021;Adeudo societat de socors mutus de mollet;24.18;Seguro Vida/Salud;8;ago-21
+02/08/2021;Adeudo societat de socors mutus de mollet;24.18;Seguro Vida/Salud;8;ago-21
+03/08/2021;Consum mollet del valles;58.65;Supermercado;8;ago-21
+03/08/2021;Adeudo josep fortuny soler;25.53;Gastos Comunidad Burgos;8;ago-21
+03/08/2021;Adeudo josep fortuny soler;66.93;Gastos Comunidad;8;ago-21
+03/08/2021;Cigna life insurance company of europe;7.69;Seguro Vida/Salud;8;ago-21
+04/08/2021;Adeudo sociedad gral.aguas bcn;80.52;Agua;8;ago-21
+05/08/2021;Vime style;31.05;Peluqueria y estetica;8;ago-21
+05/08/2021;Adeudo mensual de tarjeta;91.24;Teletac;8;ago-21
+06/08/2021;Consum mollet del valles;14.32;Supermercado;8;ago-21
+06/08/2021;Modes blasi;13.73;Ropa y Complementos;8;ago-21
+08/08/2021;Recibo de prestamo;73.42;Parking;8;ago-21
+09/08/2021;Varios servicio c. loterias;12.42;Otros;8;ago-21
+10/08/2021;Casa ametller mollet;13.44;Fruteria y Verduleria;8;ago-21
+10/08/2021;Consum mollet del valles;40.99;Supermercado;8;ago-21
+11/08/2021;Merkalzados mollet;6.93;Ropa y Complementos;8;ago-21
+11/08/2021;Farmacia rambla nova 25;13.28;Farmacia;8;ago-21
+11/08/2021;Orriols;3.86;Panaderia y Cafeteria;8;ago-21
+11/08/2021;Adeudo de bbva seguros;10.38;Seguro Vida/Salud;8;ago-21
+11/08/2021;Cargo por cobro de servicios;9.66;Mantenimiento Cuenta;8;ago-21
+12/08/2021;Sorli;2.32;Supermercado;8;ago-21
+13/08/2021;Consum mollet del valles;63.29;Supermercado;8;ago-21
+14/08/2021;Casa ametller mollet;14.26;Fruteria y Verduleria;8;ago-21
+17/08/2021;Consum mollet del valles;42.14;Supermercado;8;ago-21
+19/08/2021;Starbucks la maquinista  barcelona    es;11.52;Panaderia y Cafeteria;8;ago-21
+19/08/2021;Renfe cercanias 79006    mollet del vaes;3.86;Otros;8;ago-21
+20/08/2021;Consum mollet del valles mollet del vaes;62.02;Supermercado;8;ago-21
+20/08/2021;Casa ametller mollet     mollet del vaes;19.24;Fruteria y Verduleria;8;ago-21
+23/08/2021;Hm la maquinista;6.2;Ropa y Complementos;8;ago-21
+25/08/2021;Consum mollet del valles;2.3;Supermercado;9;sep-21
+25/08/2021;Modes blasi;51.75;Ropa y Complementos;9;sep-21
+25/08/2021;Lidl mollet del vall s;2.27;Supermercado;9;sep-21
+25/08/2021;Adeudo de telefonica;12.21;Telefonia;9;sep-21
+26/08/2021;Vodafone;20.71;Telefonia;9;sep-21
+26/08/2021;Casa ametller mollet;17.35;Fruteria y Verduleria;9;sep-21
+26/08/2021;Casa bella;10.35;Hogar;9;sep-21
+26/08/2021;Granier;1.17;Panaderia y Cafeteria;9;sep-21
+26/08/2021;Vime style;31.05;Peluqueria y estetica;9;sep-21
+26/08/2021;Adeudo de gas natural;95.19;Gas y Luz;9;sep-21
+27/08/2021;Consum mollet del valles;56.24;Supermercado;9;sep-21
+27/08/2021;Bon area;10.34;Supermercado;9;sep-21
+30/08/2021;Macxipa;1.55;Panaderia y Cafeteria;9;sep-21
+31/08/2021;Casa ametller mollet;16.84;Fruteria y Verduleria;9;sep-21
+31/08/2021;Consum mollet del valles;47.84;Supermercado;9;sep-21
+31/08/2021;Adeudo orange-france telecom;17.1;Telefonia;9;sep-21
+01/09/2021;Modes blasi;48.3;Ropa y Complementos;9;sep-21
+01/09/2021;Adeudo santa lucia s.a.;28.76;Seguro Vida/Salud;9;sep-21
+01/09/2021;Adeudo aj. mollet del valles;14.45;Impuesto Burgos;9;sep-21
+01/09/2021;Adeudo aj. mollet del valles;62.89;Impuesto Burgos;9;sep-21
+01/09/2021;Adeudo aj. mollet del valles;134.98;Impuesto;9;sep-21
+02/09/2021;Ret. efectivo  a debito con tarj. en cajero. aut.;10.35;Dietetica;9;sep-21
+02/09/2021;Ret. efectivo  a debito con tarj. en cajero. aut.;3.45;Panaderia y Cafeteria;9;sep-21
+02/09/2021;Institut medic baix valle;6.9;Consulta Medica;9;sep-21
+02/09/2021;Adeudo josep fortuny soler;25.53;Gastos Comunidad Burgos;9;sep-21
+02/09/2021;Adeudo josep fortuny soler;66.93;Gastos Comunidad;9;sep-21
+03/09/2021;Cigna life insurance company of europe;7.69;Seguro Vida/Salud;9;sep-21
+03/09/2021;Mercadona plaza cinco pin;44.44;Supermercado;9;sep-21
+03/09/2021;Adeudo societat de socors mutus de mollet;24.18;Seguro Vida/Salud;9;sep-21
+03/09/2021;Adeudo societat de socors mutus de mollet;24.18;Seguro Vida/Salud;9;sep-21
+04/09/2021;Casa ametller mollet;5.56;Fruteria y Verduleria;9;sep-21
+04/09/2021;Venus joieria;8.97;Ropa y Complementos;9;sep-21
+05/09/2021;Adeudo mensual de tarjeta;5.26;Teletac;9;sep-21
+06/09/2021;Farmacia rambla nova 25;28.84;Farmacia;9;sep-21
+07/09/2021;Consum mollet del valles mollet del vaes;66.16;Supermercado;9;sep-21
+08/09/2021;Recibo de prestamo;73.42;Parking;9;sep-21
+09/09/2021;Adeudo de bbva seguros;10.38;Seguro Vida/Salud;9;sep-21
+10/09/2021;Consum mollet del valles;62.5;Supermercado;9;sep-21
+10/09/2021;Lidl mollet del vall s;12.21;Supermercado;9;sep-21
+11/09/2021;Cargo por cobro de servicios;9.66;Mantenimiento Cuenta;9;sep-21
+13/09/2021;Orriols;3.83;Panaderia y Cafeteria;9;sep-21
+14/09/2021;Consum mollet del valles;31.96;Supermercado;9;sep-21
+16/09/2021;Farmacia rambla nova 25;7.41;Farmacia;9;sep-21
+16/09/2021;Ret. efectivo  a debito con tarj. en cajero. aut.;6.9;Fruteria y Verduleria;9;sep-21
+16/09/2021;Ret. efectivo  a debito con tarj. en cajero. aut.;6.9;Panaderia y Cafeteria;9;sep-21
+16/09/2021;Vime style;45.54;Peluqueria y estetica;9;sep-21
+17/09/2021;Consum mollet del valles;37.88;Supermercado;9;sep-21
+21/09/2021;Consum mollet del valles;34.09;Supermercado;9;sep-21
+21/09/2021;Casa ametller mollet;16.7;Fruteria y Verduleria;9;sep-21
+21/09/2021;Farmacia rambla nova 25;17.54;Farmacia;9;sep-21
+22/09/2021;Moniberic;14.24;Carniceria y Charcuteria;9;sep-21
+22/09/2021;Orriols;3.32;Panaderia y Cafeteria;9;sep-21
+22/09/2021;Pastisseria vinallonga;1.76;Panaderia y Cafeteria;9;sep-21
+24/09/2021;Pastisseria vinallonga   montornes deles;4.2;Panaderia y Cafeteria;9;sep-21
+24/09/2021;Transferencia realizada;24.15;Deporte;9;sep-21
+24/09/2021;Transferencia realizada;4.14;Fruteria y Verduleria;9;sep-21
+24/09/2021;Consum mollet del valles mollet del vaes;51.52;Supermercado;9;sep-21
+25/09/2021;Ret. efectivo  a debito con tarj. en cajero. aut.;207;Mantenimiento Nieves;9;sep-21
+27/09/2021;Vodafone;21.05;Telefonia;10;oct-21
+27/09/2021;Adeudo de telefonica;12.01;Telefonia;10;oct-21
+27/09/2021;Adeudo de gas natural;94.99;Gas y Luz;10;oct-21
+29/09/2021;Orriols;3.14;Panaderia y Cafeteria;10;oct-21
+29/09/2021;Consum mollet del valles;51.36;Supermercado;10;oct-21
+29/09/2021;Casa ametller mollet;20.33;Fruteria y Verduleria;10;oct-21
+29/09/2021;Saloa units sl;23.77;Ropa y Complementos;10;oct-21
+29/09/2021;Lledo ferreters sl;11.07;Ferreteria y Drogueria;10;oct-21
+29/09/2021;Pastisseria vinallonga;5.4;Panaderia y Cafeteria;10;oct-21
+29/09/2021;Amzn mktp es*lf0636ns5;15.24;Otros;10;oct-21
+30/09/2021;Orriols;5.04;Panaderia y Cafeteria;10;oct-21
+30/09/2021;Adeudo orange-france telecom;16.57;Telefonia;10;oct-21
+01/10/2021;Consum mollet del valles;39.07;Supermercado;10;oct-21
+01/10/2021;Ret. efectivo  a debito con tarj. en cajero. aut.;151.8;Mantenimiento Nieves;10;oct-21
+01/10/2021;Adeudo santa lucia s.a.;28.76;Seguro Vida/Salud;10;oct-21
+04/10/2021;Adeudo josep fortuny soler;66.93;Gastos Comunidad;10;oct-21
+04/10/2021;Adeudo josep fortuny soler;25.53;Gastos Comunidad Burgos;10;oct-21
+04/10/2021;Adeudo josep fortuny soler;39.33;Gastos Comunidad Burgos;10;oct-21
+04/10/2021;Transferencia realizada;4.14;Fruteria y Verduleria;10;oct-21
+05/10/2021;Consum mollet del valles;28.32;Supermercado;10;oct-21
+05/10/2021;Farmacia rambla nova 25;19.76;Farmacia;10;oct-21
+05/10/2021;Casa ametller mollet;9.16;Fruteria y Verduleria;10;oct-21
+05/10/2021;Ret. efectivo  a debito con tarj. en cajero. aut.;5.52;Retirada dinero;10;oct-21
+05/10/2021;Ret. efectivo  a debito con tarj. en cajero. aut.;42.78;Perros;10;oct-21
+05/10/2021;Druni mollet del valles;24.7;Ferreteria y Drogueria;10;oct-21
+05/10/2021;Adeudo societat de socors mutus de mollet;24.18;Seguro Vida/Salud;10;oct-21
+05/10/2021;Adeudo societat de socors mutus de mollet;24.18;Seguro Vida/Salud;10;oct-21
+07/10/2021;Orriols;2.1;Panaderia y Cafeteria;10;oct-21
+07/10/2021;Vime style;34.5;Peluqueria y estetica;10;oct-21
+08/10/2021;Recibo de prestamo;73.42;Parking;10;oct-21
+08/10/2021;Cigna life insurance company of europe;7.69;Seguro Vida/Salud;10;oct-21
+08/10/2021;Consum mollet del valles;69.03;Supermercado;10;oct-21
+11/10/2021;Cargo por cobro de servicios;9.66;Mantenimiento Cuenta;10;oct-21
+11/10/2021;Mercadona cc parets;7.05;Supermercado;10;oct-21
+11/10/2021;Media markt e 291;583.05;Electrodomesticos;10;oct-21
+11/10/2021;Orriols;1.38;Panaderia y Cafeteria;10;oct-21
+11/10/2021;Adeudo de bbva seguros;10.38;Seguro Vida/Salud;10;oct-21
+13/10/2021;Farmacia rambla nova 25;11.81;Farmacia;10;oct-21
+13/10/2021;Consum mollet del valles;35.47;Supermercado;10;oct-21
+13/10/2021;Pastisseria vinallonga;2.17;Panaderia y Cafeteria;10;oct-21
+14/10/2021;Transferencia realizada;34.5;Transferencia;10;oct-21
+14/10/2021;Institut medic baix valle;6.9;Consulta Medica;10;oct-21
+15/10/2021;Consum mollet del valles;48.66;Supermercado;10;oct-21
+18/10/2021;Farmacia rambla nova 25;4.74;Farmacia;10;oct-21
+19/10/2021;Consum mollet del valles;38.61;Supermercado;10;oct-21
+21/10/2021;Casa bella;4.55;Hogar;10;oct-21
+21/10/2021;Moniberic;14.21;Carniceria y Charcuteria;10;oct-21
+21/10/2021;Orriols;2.39;Panaderia y Cafeteria;10;oct-21
+22/10/2021;Consum mollet del valles mollet del vaes;21.9;Supermercado;10;oct-21
+22/10/2021;Transferencia realizada;12.42;Fruteria y Verduleria;10;oct-21
+23/10/2021;Cup and cakes            barcelona    es;62.17;Otros;10;oct-21
+23/10/2021;Renfe cercanias tna 08 3 barcelona    es;3.86;Otros;10;oct-21
+25/10/2021;Modes blasi;19.32;Ropa y Complementos;11;nov-21
+25/10/2021;Adeudo de telefonica;10.41;Telefonia;11;nov-21
+26/10/2021;Casa ametller mollet;21.64;Fruteria y Verduleria;11;nov-21
+26/10/2021;Consum mollet del valles;36.08;Supermercado;11;nov-21
+26/10/2021;Consum mollet del valles;10.69;Supermercado;11;nov-21
+27/10/2021;Vodafone;17.6;Telefonia;11;nov-21
+27/10/2021;Adeudo josep fortuny soler;11.28;Gastos Comunidad Burgos;11;nov-21
+28/10/2021;Vime style;34.5;Peluqueria y estetica;11;nov-21
+28/10/2021;Adeudo de gas natural;87.77;Gas y Luz;11;nov-21
+29/10/2021;Consum mollet del valles;23.82;Supermercado;11;nov-21
+29/10/2021;Mercadona plaza cinco pin;37.03;Supermercado;11;nov-21
+29/10/2021;Adeudo orange-france telecom;5.68;Telefonia;11;nov-21
+01/11/2021;Cargo por cobro de servicios;6.54;Mantenimiento Cuenta;11;nov-21
+01/11/2021;Adeudo santa lucia s.a.;161.34;Seguro Piso;11;nov-21
+02/11/2021;com. Prop. Parking abar escarre, 1-5;46.92;Parking;11;nov-21
+02/11/2021;Cigna life insurance company of europe;7.69;Seguro Vida/Salud;11;nov-21
+02/11/2021;Transferencia realizada;6.21;Fruteria y Verduleria;11;nov-21
+02/11/2021;Casa ametller mollet;10.63;Fruteria y Verduleria;11;nov-21
+02/11/2021;Farmacia rambla nova 25;5.88;Farmacia;11;nov-21
+02/11/2021;Consum mollet del valles;10.23;Supermercado;11;nov-21
+02/11/2021;Adeudo santa lucia s.a.;28.76;Seguro Vida/Salud;11;nov-21
+02/11/2021;Adeudo josep fortuny soler;25.53;Gastos Comunidad Burgos;11;nov-21
+02/11/2021;Adeudo josep fortuny soler;66.93;Gastos Comunidad;11;nov-21
+03/11/2021;Transferencia realizada;13.8;Deporte;11;nov-21
+03/11/2021;Adeudo digi spain telecom sl;20.26;Telefonia;11;nov-21
+04/11/2021;Adeudo axa seguros generales, s.a.;206.4;Seguro Coche;11;nov-21
+04/11/2021;Consum mollet del valles;2.21;Supermercado;11;nov-21
+04/11/2021;Adeudo josep fortuny soler;35.23;Gastos Comunidad Burgos;11;nov-21
+04/11/2021;Adeudo societat de socors mutus de mollet;24.18;Seguro Vida/Salud;11;nov-21
+04/11/2021;Adeudo societat de socors mutus de mollet;24.18;Seguro Vida/Salud;11;nov-21
+04/11/2021;Adeudo de aguas de barcelona;85.03;Agua;11;nov-21
+05/11/2021;Consum mollet del valles;69.94;Supermercado;11;nov-21
+05/11/2021;Consum mollet del valles;14.45;Supermercado;11;nov-21
+05/11/2021;Farmacia rambla nova 25;3.2;Farmacia;11;nov-21
+05/11/2021;Orriols;1.38;Panaderia y Cafeteria;11;nov-21
+08/11/2021;Recibo de prestamo;73.37;Parking;11;nov-21
+08/11/2021;Consum mollet del valles;4.51;Supermercado;11;nov-21
+08/11/2021;Consum mollet del valles;3.27;Supermercado;11;nov-21
+08/11/2021;Adeudo de gas natural;20.91;Gas y Luz;11;nov-21
+10/11/2021;Consum mollet del valles;36.12;Supermercado;11;nov-21
+10/11/2021;Adeudo de bbva seguros;10.38;Seguro Vida/Salud;11;nov-21
+11/11/2021;L isard illa;17.86;Ropa y Complementos;11;nov-21
+11/11/2021;Orriols;2;Panaderia y Cafeteria;11;nov-21
+12/11/2021;Consum mollet del valles;82.08;Supermercado;11;nov-21
+12/11/2021;Tentazioni mollet;17.94;Ropa y Complementos;11;nov-21
+13/11/2021;Farmacia rambla nova 25;10.77;Farmacia;11;nov-21
+15/11/2021;Consum mollet del valles;5.01;Supermercado;11;nov-21
+15/11/2021;Transferencia realizada;34.5;Mantenimiento;11;nov-21
+16/11/2021;Farmacia rambla nova 25;9.41;Farmacia;11;nov-21
+16/11/2021;Balneario mas salagros;62.32;Otros;11;nov-21
+17/11/2021;Consum mollet del valles;44.55;Supermercado;11;nov-21
+17/11/2021;Consum mollet del valles;16.13;Supermercado;11;nov-21
+18/11/2021;Modes blasi;24.08;Ropa y Complementos;11;nov-21
+18/11/2021;Consum mollet del valles;7.03;Supermercado;11;nov-21
+18/11/2021;Orriols;1.45;Panaderia y Cafeteria;11;nov-21
+18/11/2021;Vime style;26.91;Peluqueria y estetica;11;nov-21
+20/11/2021;Pagos de hibera sl;8.28;Otros;11;nov-21
+22/11/2021;Consum mollet del valles;37.29;Supermercado;11;nov-21
+24/11/2021;Transferencia realizada;69;Transferencia;11;nov-21
+24/11/2021;Limerence                barcelona    es;5.44;Fruteria y Verduleria;11;nov-21
+24/11/2021;Macxipa                  mollet del vaes;7.13;Panaderia y Cafeteria;11;nov-21
+25/11/2021;Muy mucho mollet;6.89;Hogar;12;dic-21
+25/11/2021;Adeudo de gas natural;103.22;Gas y Luz;12;dic-21
+26/11/2021;Consum mollet del valles;55.06;Supermercado;12;dic-21
+26/11/2021;Casa bella;7.61;Hogar;12;dic-21
+26/11/2021;Consum mollet del valles;11.97;Supermercado;12;dic-21
+26/11/2021;Modes blasi;6.9;Ropa y Complementos;12;dic-21
+26/11/2021;Peixateria loli;13.82;Pescaderia;12;dic-21
+26/11/2021;Adeudo josep fortuny soler;18.84;Gastos Comunidad Burgos;12;dic-21
+29/11/2021;Farmacia rambla nova 25;31.26;Farmacia;12;dic-21
+30/11/2021;Drogueria montseny;28;Ferreteria y Drogueria;12;dic-21
+30/11/2021;Orriols;2.24;Panaderia y Cafeteria;12;dic-21
+30/11/2021;Flores ana;15.18;Hogar;12;dic-21
+01/12/2021;Casa ametller mollet;6.69;Fruteria y Verduleria;12;dic-21
+01/12/2021;Consum mollet del valles;36.69;Supermercado;12;dic-21
+01/12/2021;Institut medic baix valle;10.35;Consulta Medica;12;dic-21
+01/12/2021;Adeudo josep fortuny soler;25.53;Gastos Comunidad Burgos;12;dic-21
+01/12/2021;Adeudo josep fortuny soler;66.93;Gastos Comunidad;12;dic-21
+01/12/2021;Adeudo santa lucia s.a.;28.76;Seguro Vida/Salud;12;dic-21
+01/12/2021;Adeudo aj. mollet del valles;14.45;Impuesto Burgos;12;dic-21
+01/12/2021;Adeudo aj. mollet del valles;62.87;Impuesto Burgos;12;dic-21
+01/12/2021;Adeudo aj. mollet del valles;134.99;Impuesto;12;dic-21
+01/12/2021;Adeudo digi spain telecom sl;37.4;Telefonia;12;dic-21
+02/12/2021;Ret. efectivo  a debito con tarj. en cajero. aut.;6.9;Perros;12;dic-21
+02/12/2021;Ret. efectivo  a debito con tarj. en cajero. aut.;27.6;Otros;12;dic-21
+02/12/2021;Adeudo cigna life insurance company of eur;7.69;Seguro Vida/Salud;12;dic-21
+03/12/2021;Cargo por cobro de servicios;9.66;Mantenimiento Cuenta;12;dic-21
+03/12/2021;Consum mollet del valles;57.46;Supermercado;12;dic-21
+03/12/2021;Clinica veterinaria movet;5.46;Perros;12;dic-21
+03/12/2021;Farmacia rambla nova 25;12.23;Farmacia;12;dic-21
+03/12/2021;Macxipa;2.53;Panaderia y Cafeteria;12;dic-21
+06/12/2021;Adeudo societat de socors mutus de mollet;24.18;Seguro Vida/Salud;12;dic-21
+06/12/2021;Adeudo societat de socors mutus de mollet;24.18;Seguro Vida/Salud;12;dic-21
+07/12/2021;Consum mollet del valles;65.53;Supermercado;12;dic-21
+08/12/2021;Condis amiar;3.17;Supermercado;12;dic-21
+09/12/2021;Consum mollet del valles;4.42;Supermercado;12;dic-21
+09/12/2021;Gran bazar 1;8.07;Hogar;12;dic-21
+09/12/2021;Orriols;4.31;Panaderia y Cafeteria;12;dic-21
+09/12/2021;Vime style;26.91;Peluqueria y estetica;12;dic-21
+10/12/2021;Consum mollet del valles;46.62;Supermercado;12;dic-21
+14/12/2021;Consum mollet del valles;47.29;Supermercado;12;dic-21
+14/12/2021;Peixateria loli;12.91;Pescaderia;12;dic-21
+14/12/2021;Orriols;4.97;Panaderia y Cafeteria;12;dic-21
+15/12/2021;Consum mollet del valles;6.54;Supermercado;12;dic-21
+17/12/2021;Consum mollet del valles;80.15;Supermercado;12;dic-21
+17/12/2021;Transferencia realizada;41.4;Perros;12;dic-21
+18/12/2021;Casa bella;28.46;Hogar;12;dic-21
+20/12/2021;Decoracion licos;41.64;Hogar;12;dic-21
+20/12/2021;Umami mollet;2.9;Panaderia y Cafeteria;12;dic-21
+21/12/2021;Calzedonia;5.52;Ropa y Complementos;12;dic-21
+21/12/2021;Consum mollet del valles;87.85;Supermercado;12;dic-21
+21/12/2021;Ret. efectivo  a debito con tarj. en cajero. aut.;207;Otros;12;dic-21
+21/12/2021;El raco de la salut;3.93;Dietetica;12;dic-21
+21/12/2021;Wanda pastry shop;5.21;Panaderia y Cafeteria;12;dic-21
+21/12/2021;Karlos huelva;41.54;Pescaderia;12;dic-21
+21/12/2021;Farmacia rambla nova 25;2.51;Farmacia;12;dic-21
+23/12/2021;Transferencia realizada;27.6;Mantenimiento;12;dic-21
+23/12/2021;Adeudo associacio catalana de pitch and putt;22.74;Suscripcion anual;12;dic-21
+24/12/2021;Consum mollet del valles mollet del vaes;14.79;Supermercado;12;dic-21
+27/12/2021;Consum mollet del valles;20.31;Supermercado;13;ene-22
+27/12/2021;Centro medico ronefor- ro;48.3;Consulta Medica;13;ene-22
+27/12/2021;Adeudo de gas natural;124.63;Gas y Luz;13;ene-22
+27/12/2021;Transferencia realizada;103.5;Otros;13;ene-22
+28/12/2021;Farmacia rambla nova 25;109.52;Farmacia;13;ene-22
+29/12/2021;Farmacia rambla nova 25;1.36;Farmacia;13;ene-22
+29/12/2021;Farmacia rambla nova 25;24.15;Farmacia;13;ene-22
+29/12/2021;Renfe cercanias tna 08 3;13.11;Otros;13;ene-22
+30/12/2021;Consum mollet del valles;66.44;Supermercado;13;ene-22
+30/12/2021;Orriols;2.62;Panaderia y Cafeteria;13;ene-22
+30/12/2021;Vime style;31.05;Peluqueria y estetica;13;ene-22
+31/12/2021;Peixos juani;61.31;Pescaderia;13;ene-22
+03/01/2022;Adeudo real fed espanola de golf;69.69;Suscripcion anual;13;ene-22
+03/01/2022;Adeudo josep fortuny soler;25.53;Gastos Comunidad Burgos;13;ene-22
+03/01/2022;Adeudo societat de socors mutus de mollet;24.18;Seguro Vida/Salud;13;ene-22
+03/01/2022;Adeudo societat de socors mutus de mollet;24.18;Seguro Vida/Salud;13;ene-22
+03/01/2022;Adeudo josep fortuny soler;39.33;Gastos Comunidad Burgos;13;ene-22
+03/01/2022;Adeudo josep fortuny soler;66.93;Gastos Comunidad;13;ene-22
+03/01/2022;Adeudo digi spain telecom sl;39.2;Telefonia;13;ene-22
+03/01/2022;Farmacia paralelo;14.49;Farmacia;13;ene-22
+03/01/2022;Mucho que esperar s.l.;19.18;Otros;13;ene-22
+04/01/2022;Consum mollet del valles;53.12;Supermercado;13;ene-22
+04/01/2022;Pastisseria vinallonga;4.76;Panaderia y Cafeteria;13;ene-22
+04/01/2022;Pa serra;5.14;Panaderia y Cafeteria;13;ene-22
+05/01/2022;Adeudo cigna life insurance company of eur;7.69;Seguro Vida/Salud;13;ene-22
+05/01/2022;Adeudo mensual de tarjeta;3.8;Teletac;13;ene-22
+07/01/2022;Consum mollet del valles;55.39;Supermercado;13;ene-22
+07/01/2022;Orriols;14.56;Panaderia y Cafeteria;13;ene-22
+10/01/2022;Farmacia rambla nova 25;7.13;Farmacia;13;ene-22
+11/01/2022;Consum mollet del valles;41.1;Supermercado;13;ene-22
+11/01/2022;L'art del cosir;6.9;Ropa y Complementos;13;ene-22
+11/01/2022;Adeudo santa lucia s.a.;28.76;Seguro Piso;13;ene-22
+13/01/2022;Mercadona plaza cinco pin;15.58;Supermercado;13;ene-22
+14/01/2022;Consum mollet del valles;47.14;Supermercado;13;ene-22
+14/01/2022;Lledo ferreters sl;6.07;Ferreteria y Drogueria;13;ene-22
+14/01/2022;Consum mollet del valles;9.63;Supermercado;13;ene-22
+14/01/2022;Umami mollet;5.18;Panaderia y Cafeteria;13;ene-22
+17/01/2022;Casa ametller mollet;24.94;Fruteria y Verduleria;13;ene-22
+17/01/2022;Farmacia rambla nova 25;13.68;Farmacia;13;ene-22
+17/01/2022;Ret. efectivo  a debito con tarj. en cajero. aut.;13.8;Panaderia y Cafeteria;13;ene-22
+20/01/2022;Farmacia amado;8.9;Farmacia;13;ene-22
+20/01/2022;Institut medic baix valle;6.9;Consulta Medica;13;ene-22
+20/01/2022;Consum mollet del valles;29.59;Supermercado;13;ene-22
+20/01/2022;Merkalzados mollet;9.65;Ropa y Complementos;13;ene-22
+20/01/2022;Vime style;44.78;Peluqueria y estetica;13;ene-22
+21/01/2022;Casa Bella;61.44;Hogar;13;ene-22
+21/01/2022;Consum mollet del valles mollet del vaes;90.51;Supermercado;13;ene-22
+21/01/2022;Modes blasi              mollet del vaes;24.77;Ropa y Complementos;13;ene-22
+21/01/2022;Umami mollet             mollet del vaes;4.62;Panaderia y Cafeteria;13;ene-22
+21/01/2022;Fumigacion Piso Burgos;100.19;Gastos Comunidad Burgos;13;ene-22
+24/01/2022;Transferencia realizada;89.7;Transferencia;13;ene-22
+24/01/2022;Institut medic baix valle;10.35;Consulta Medica;13;ene-22
+24/01/2022;Wanda pastry shop;3.19;Panaderia y Cafeteria;13;ene-22
+25/01/2022;Simon material electrico-;1.17;Ferreteria y Drogueria;14;feb-22
+26/01/2022;Consum mollet del valles;5.98;Supermercado;14;feb-22
+26/01/2022;Orriols;2.81;Panaderia y Cafeteria;14;feb-22
+27/01/2022;Consum mollet del valles;27.26;Supermercado;14;feb-22
+27/01/2022;Matilde gimenez cabrera l;20.7;Ropa y Complementos;14;feb-22
+27/01/2022;Anima de granollers;9.66;Otros;14;feb-22
+27/01/2022;Kiko;4.89;Ropa y Complementos;14;feb-22
+27/01/2022;Forn sant jordi;4.55;Panaderia y Cafeteria;14;feb-22
+29/01/2022;Consum mollet del valles mollet del vaes;67.12;Supermercado;14;feb-22
+31/01/2022;Adeudo de gas natural;115.22;Gas y Luz;14;feb-22
+31/01/2022;Calzados el valles;22.36;Ropa y Complementos;14;feb-22
+31/01/2022;Consum mollet del valles;15.27;Supermercado;14;feb-22
+01/02/2022;Adeudo digi spain telecom sl;37.65;Telefonia;14;feb-22
+01/02/2022;Adeudo santa lucia s.a.;28.76;Seguro Vida/Salud;14;feb-22
+02/02/2022;Transferencia realizada;138;Otros;14;feb-22
+02/02/2022;Adeudo santa lucia s.a.;112.88;Seguro Piso Burgos;14;feb-22
+02/02/2022;Adeudo josep fortuny soler;66.93;Gastos Comunidad;14;feb-22
+02/02/2022;Adeudo josep fortuny soler;25.53;Gastos Comunidad Burgos;14;feb-22
+02/02/2022;Adeudo societat de socors mutus de mollet;24.18;Seguro Vida/Salud;14;feb-22
+02/02/2022;Adeudo societat de socors mutus de mollet;24.18;Seguro Vida/Salud;14;feb-22
+02/02/2022;Adeudo cigna life insurance company of eur;7.69;Seguro Vida/Salud;14;feb-22
+03/02/2022;Casa ametller mollet;30.79;Fruteria y Verduleria;14;feb-22
+04/02/2022;Foz;49.68;Ropa y Complementos;14;feb-22
+04/02/2022;Consum mollet del valles;49.2;Supermercado;14;feb-22
+04/02/2022;Farmacia rambla nova 25;19.91;Farmacia;14;feb-22
+04/02/2022;Lidl mollet del vall s;7.56;Supermercado;14;feb-22
+05/02/2022;Adeudo mensual de tarjeta;10.35;Teletac;14;feb-22
+07/02/2022;Adeudo de aguas de barcelona;95.72;Agua;14;feb-22
+07/02/2022;Farmacia rambla nova 25;9.36;Farmacia;14;feb-22
+08/02/2022;Consum mollet del valles;49.08;Supermercado;14;feb-22
+09/02/2022;Cuota dia a dia;19.11;Mantenimiento Cuenta;14;feb-22
+10/02/2022;Vime style;32.02;Peluqueria y estetica;14;feb-22
+10/02/2022;Orriols;5.07;Panaderia y Cafeteria;14;feb-22
+11/02/2022;Consum mollet del valles;54.02;Supermercado;14;feb-22
+11/02/2022;Lidl mollet del vall s;11.41;Supermercado;14;feb-22
+11/02/2022;Adn stetic;4.83;Peluqueria y estetica;14;feb-22
+11/02/2022;Orriols;1.35;Panaderia y Cafeteria;14;feb-22
+13/02/2022;La guatlla gastronomica;63.1;Otros;14;feb-22
+13/02/2022;Morrow;8.97;Panaderia y Cafeteria;14;feb-22
+15/02/2022;Consum mollet del valles;48.19;Supermercado;14;feb-22
+16/02/2022;Delikado;13.8;Ropa y Complementos;14;feb-22
+18/02/2022;Centro medico ronefor- ro;62.1;Consulta Medica;14;feb-22
+18/02/2022;Consum mollet del valles;55.57;Supermercado;14;feb-22
+18/02/2022;Karlos huelva;25.11;Pescaderia;14;feb-22
+18/02/2022;Farmacia rambla nova 25;12.32;Farmacia;14;feb-22
+18/02/2022;1075 viena passeig sant j;4.24;Panaderia y Cafeteria;14;feb-22
+18/02/2022;Renfe cercanias 77004;1.93;Otros;14;feb-22
+18/02/2022;Viena arrodoniment solida;0.24;Panaderia y Cafeteria;14;feb-22
+22/02/2022;Consum mollet del valles;25.12;Supermercado;14;feb-22
+22/02/2022;Saloa units sl;17.93;Ropa y Complementos;14;feb-22
+22/02/2022;Farmacia rambla nova 25;11.35;Farmacia;14;feb-22
+22/02/2022;Orriols;3.55;Panaderia y Cafeteria;14;feb-22
+23/02/2022;Farmacia rambla nova 25  mollet del vaes;6.13;Farmacia;14;feb-22
+24/02/2022;Transferencia realizada;13.8;Retirada dinero;14;feb-22
+24/02/2022;Plan de pensiones;20.7;Otros;14;feb-22
+25/02/2022;Consum mollet del valles;91.7;Supermercado;15;mar-22
+01/03/2022;Mercadona plaza cinco pin;41.77;Supermercado;15;mar-22
+01/03/2022;Adeudo santa lucia s.a.;29.94;Seguro Vida/Salud;15;mar-22
+01/03/2022;Adeudo digi spain telecom sl;37.53;Telefonia;15;mar-22
+02/03/2022;Farmacia mollet;13.77;Farmacia;15;mar-22
+02/03/2022;Adeudo edc.gastronomia s.a.;34.16;Suscripcion anual;15;mar-22
+02/03/2022;Adeudo cigna life insurance company of eur;7.69;Seguro Vida/Salud;15;mar-22
+02/03/2022;Adeudo josep fortuny soler;25.53;Gastos Comunidad Burgos;15;mar-22
+02/03/2022;Adeudo josep fortuny soler;66.93;Gastos Comunidad;15;mar-22
+03/03/2022;Copisteria el punt;3.17;Otros;15;mar-22
+03/03/2022;Orriols;3.58;Panaderia y Cafeteria;15;mar-22
+03/03/2022;Vime style;55.2;Peluqueria y estetica;15;mar-22
+03/03/2022;Adeudo societat de socors mutus de mollet;24.18;Seguro Vida/Salud;15;mar-22
+03/03/2022;Adeudo societat de socors mutus de mollet;24.18;Seguro Vida/Salud;15;mar-22
+04/03/2022;Consum mollet del valles;55.44;Supermercado;15;mar-22
+04/03/2022;Moda sport conan;12.42;Ropa y Complementos;15;mar-22
+04/03/2022;Sorli;29.59;Supermercado;15;mar-22
+05/03/2022;Farmacia rambla nova 25;7.09;Farmacia;15;mar-22
+07/03/2022;Skyscanner;117.53;Otros;15;mar-22
+07/03/2022;Edreams;92.16;Otros;15;mar-22
+10/03/2022;Consum mollet del valles;70.41;Supermercado;15;mar-22
+10/03/2022;Adeudo de gas natural;26.72;Gas y Luz;15;mar-22
+12/03/2022;Farmacia rambla nova 25;5.61;Farmacia;15;mar-22
+14/03/2022;Orriols;4.73;Panaderia y Cafeteria;15;mar-22
+15/03/2022;Consum mollet del valles;66.37;Supermercado;15;mar-22
+17/03/2022;Viaje Trabuco;33.77;Otros;15;mar-22
+17/03/2022;Perros;41.4;Perros;15;mar-22
+17/03/2022;Maquillaje;39.61;Ropa y Complementos;15;mar-22
+17/03/2022;Saloa units sl;69;Otros;15;mar-22
+18/03/2022;Consum mollet del valles;73.05;Supermercado;15;mar-22
+22/03/2022;Consum mollet del valles;43.8;Supermercado;15;mar-22
+23/03/2022;Institut medic baix vallemollet del vaes;31.05;Consulta Medica;15;mar-22
+25/03/2022;Consum mollet del valles;55.7;Supermercado;16;abr-22
+25/03/2022;Centro medico ronefor- ro;103.5;Consulta Medica;16;abr-22
+25/03/2022;Mercadona plaza cinco pin;23.31;Supermercado;16;abr-22
+25/03/2022;Adeudo ajuntament de mollet del valles;24.15;Deporte;16;abr-22
+28/03/2022;Orriols;3.69;Panaderia y Cafeteria;16;abr-22
+28/03/2022;Farmacia rambla nova 25;25.88;Farmacia;16;abr-22
+28/03/2022;Panaderia pastisseria are;1.41;Panaderia y Cafeteria;16;abr-22
+28/03/2022;Farmacia rambla nova 25;35.81;Farmacia;16;abr-22
+28/03/2022;Adeudo de gas natural;104.2;Gas y Luz;16;abr-22
+29/03/2022;Consum mollet del valles;60.31;Supermercado;16;abr-22
+29/03/2022;Orriols;2.38;Panaderia y Cafeteria;16;abr-22
+29/03/2022;Vime style;36.09;Peluqueria y estetica;16;abr-22
+31/03/2022;Movil tech mollet;24.15;Otros;16;abr-22
+31/03/2022;Cafeteria 365 rbla mollet;3.52;Panaderia y Cafeteria;16;abr-22
+31/03/2022;Adeudo de gas natural;106.36;Gas y Luz;16;abr-22
+01/04/2022;Mercadona plaza cinco pin;72.27;Supermercado;16;abr-22
+01/04/2022;Adeudo santa lucia s.a.;29.46;Seguro Vida/Salud;16;abr-22
+01/04/2022;Adeudo digi spain telecom sl;37.41;Telefonia;16;abr-22
+04/04/2022;Adeudo josep fortuny soler;39.33;Gastos Comunidad Burgos;16;abr-22
+04/04/2022;Adeudo josep fortuny soler;66.93;Gastos Comunidad;16;abr-22
+04/04/2022;Adeudo josep fortuny soler;25.53;Gastos Comunidad Burgos;16;abr-22
+04/04/2022;Adeudo cigna life insurance company of eur;7.69;Seguro Vida/Salud;16;abr-22
+05/04/2022;Tentazioni mollet;6.89;Ropa y Complementos;16;abr-22
+05/04/2022;Cafeterias caffe il forno;6.66;Panaderia y Cafeteria;16;abr-22
+05/04/2022;Consum mollet del valles;26.64;Supermercado;16;abr-22
+05/04/2022;Adeudo societat de socors mutus de mollet;24.18;Seguro Vida/Salud;16;abr-22
+05/04/2022;Adeudo societat de socors mutus de mollet;24.18;Seguro Vida/Salud;16;abr-22
+06/04/2022;Ret. efectivo  a debito con tarj. en cajero. aut.;13.8;Retirada dinero;16;abr-22
+08/04/2022;Consum mollet del valles;50.48;Supermercado;16;abr-22
+08/04/2022;Farmacia rambla nova 25;35.04;Farmacia;16;abr-22
+08/04/2022;Saloa units sl;17.25;Ropa y Complementos;16;abr-22
+08/04/2022;Ret. efectivo  a debito con tarj. en cajero. aut.;17.25;Retirada dinero;16;abr-22
+08/04/2022;Consum mollet del valles;26.51;Supermercado;16;abr-22
+11/04/2022;Fruita i verdura rblanovamollet del vaes;5.36;Fruteria y Verduleria;16;abr-22
+13/04/2022;Consum mollet del valles mollet del vaes;106.79;Supermercado;16;abr-22
+16/04/2022;Consum mollet del valles;45.09;Supermercado;16;abr-22
+19/04/2022;Vime style;32.02;Peluqueria y estetica;16;abr-22
+19/04/2022;Adeudo josep fortuny soler;15.07;Gastos Comunidad Burgos;16;abr-22
+19/04/2022;Adeudo mussap, mutualidad de seguros generales;290.55;Seguro Piso Burgos;16;abr-22
+20/04/2022;Condis mollet del valles mollet del vaes;3.35;Supermercado;16;abr-22
+21/04/2022;Consum mollet del valles mollet del vaes;71.58;Supermercado;16;abr-22
+22/04/2022;Mercadona plaza cinco pinmollet del vaes;6.18;Supermercado;16;abr-22
+22/04/2022;Consum mollet del valles mollet del vaes;27.3;Supermercado;16;abr-22
+25/04/2022;Farmacia rambla nova 25  mollet del vaes;41.92;Farmacia;17;may-22
+26/04/2022;Consum mollet del valles mollet del vaes;53.97;Supermercado;17;may-22
+28/04/2022;Luxin                    mollet del vaes;6.87;Ropa y Complementos;17;may-22
+28/04/2022;Venus joieria            mollet del vaes;13.8;Ropa y Complementos;17;may-22
+29/04/2022;Consum mollet del valles;56.41;Supermercado;17;may-22
+29/04/2022;Adeudo de gas natural;118.58;Gas y Luz;17;may-22
+02/05/2022;Transferencia realizada;247.32;Impuesto Coche;17;may-22
+02/05/2022;Adeudo santa lucia s.a.;151.5;Seguro Piso;17;may-22
+02/05/2022;Adeudo santa lucia s.a.;29.46;Seguro Vida/Salud;17;may-22
+02/05/2022;Adeudo com. prop. parking abat escarre, 1-5;51.06;Parking;17;may-22
+02/05/2022;Adeudo aj. mollet del valles;14.84;Impuesto Burgos;17;may-22
+02/05/2022;Adeudo aj. mollet del valles;64.56;Impuesto Burgos;17;may-22
+02/05/2022;Adeudo aj. mollet del valles;138.59;Impuesto;17;may-22
+02/05/2022;Adeudo digi spain telecom sl;37.58;Telefonia;17;may-22
+03/05/2022;Consum mollet del valles mollet del vaes;39.58;Supermercado;17;may-22
+03/05/2022;Adeudo josep fortuny soler;25.53;Gastos Comunidad Burgos;17;may-22
+03/05/2022;Adeudo josep fortuny soler;66.93;Gastos Comunidad;17;may-22
+03/05/2022;Adeudo cigna life insurance company of eur;7.69;Seguro Vida/Salud;17;may-22
+04/05/2022;Adeudo de axa seguros generales;209.58;Seguro Coche;17;may-22
+04/05/2022;Adeudo societat de socors mutus de mollet;24.18;Seguro Vida/Salud;17;may-22
+04/05/2022;Adeudo societat de socors mutus de mollet;24.18;Seguro Vida/Salud;17;may-22
+06/05/2022;Consum mollet del valles;66.43;Supermercado;17;may-22
+06/05/2022;Adeudo de aguas de barcelona;94.3;Agua;17;may-22
+07/05/2022;Cafeteria 365 rbla mollet;0.86;Panaderia y Cafeteria;17;may-22
+09/05/2022;Farmacia rambla nova 25;4.26;Farmacia;17;may-22
+10/05/2022;Consum mollet del valles;14.52;Supermercado;17;may-22
+10/05/2022;Orriols;2.42;Panaderia y Cafeteria;17;may-22
+11/05/2022;Consum mollet del valles;24.69;Supermercado;17;may-22
+11/05/2022;Casa bella;34.03;Hogar;17;may-22
+12/05/2022;Mercadona plaza cinco pin;35.23;Supermercado;17;may-22
+12/05/2022;Farmacia mollet;12.39;Farmacia;17;may-22
+12/05/2022;Farmacia mollet;10.94;Farmacia;17;may-22
+12/05/2022;Farmacia rambla nova 25;29.33;Farmacia;17;may-22
+12/05/2022;Ret. efectivo  a debito con tarj. en cajero. aut.;13.8;Retirada dinero;17;may-22
+12/05/2022;Vime style;32.02;Peluqueria y estetica;17;may-22
+13/05/2022;Consum mollet del valles;43.36;Supermercado;17;may-22
+16/05/2022;Redondeo impacto correos;0.07;Otros;17;may-22
+16/05/2022;Mollet del valles;11.66;Otros;17;may-22
+17/05/2022;Consum mollet del valles;39.5;Supermercado;17;may-22
+20/05/2022;Consum mollet del valles;61.95;Supermercado;17;may-22
+20/05/2022;Lidl mollet del vall s;15.04;Supermercado;17;may-22
+23/05/2022;Consum mollet del valles;6.8;Supermercado;17;may-22
+23/05/2022;Farmacia rambla nova 25;6.55;Farmacia;17;may-22
